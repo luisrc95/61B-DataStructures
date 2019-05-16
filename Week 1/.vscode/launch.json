@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargerDemo",
+            "request": "launch",
+            "mainClass": "LargerDemo",
+            "projectName": "Week 1_fa8aa201"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Week 1_fa8aa201"
+        }
+    ]
+}
