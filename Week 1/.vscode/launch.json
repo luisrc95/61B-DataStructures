@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HelloNumbers",
+            "request": "launch",
+            "mainClass": "HelloNumbers",
+            "projectName": "Week 1_b5a65870"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LargerDemo",
             "request": "launch",
             "mainClass": "LargerDemo",
